@@ -1,0 +1,20 @@
+.mainBlock {
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.someDiv {
+    font-family: 'Quicksand';
+    font-size: 24px;
+    text-align: center;
+    width: 100px;
+    margin-top: 50px;
+}
